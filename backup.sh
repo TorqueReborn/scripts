@@ -7,4 +7,4 @@ git add -A
 git commit -m "Backup"
 git remote add origin https://gitlab.com/torquereborn/whatsapp.git
 git branch -M main
-git push -uf origin main
+git lfs push origin main
