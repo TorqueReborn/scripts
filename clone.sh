@@ -1,4 +1,4 @@
 git config --global credential.helper store
-git config --global user.name "Ghost-Reborn"
-git config --global user.email "abhinandammanamkandy@gmail.com"
-git clone https://github.com/TorqueReborn/WhatsApp /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/
+git config --global user.name "torque_reborn"
+git config --global user.email "torquereborn@gmail.com"
+git clone https://gitlab.com/torquereborn/whatsapp /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/
