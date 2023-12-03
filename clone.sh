@@ -4,3 +4,4 @@ git config --global user.email "torquereborn@gmail.com"
 cd /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/
 mkdir .Shared
 git clone https://gitlab.com/torquereborn/whatsapp WhatsApp
+cd
