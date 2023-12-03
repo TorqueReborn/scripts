@@ -11,3 +11,5 @@ git remote add origin https://gitlab.com/torquereborn/whatsapp.git
 git branch -M main
 git lfs push origin main
 git push --force -u origin main
+cd
+cd scripts
