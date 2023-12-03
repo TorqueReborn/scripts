@@ -1,3 +1,4 @@
+clear
 cd /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp
 rm -rf .git
 git config --global --add safe.directory /storage/emulated/0/Android/media/com.whatsapp/WhatsApp
