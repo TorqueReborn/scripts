@@ -9,9 +9,9 @@ git lfs track "*.pdf"
 git add -A
 git commit -m "Backup"
 git remote add origin https://gitlab.com/torquereborn/whatsapp.git
-git branch -M main
+git branch -M sub
 git config lfs.https://gitlab.com/torquereborn/whatsapp.git/info/lfs.locksverify true
-git lfs push origin main
-git push --force -u origin main
+git lfs push origin sub
+git push --force -u origin sub
 cd
 cd scripts
