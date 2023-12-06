@@ -11,7 +11,7 @@ git commit -m "Backup"
 git remote add origin https://gitlab.com/torquereborn/whatsapp.git
 git branch -M main
 git config lfs.https://gitlab.com/torquereborn/whatsapp.git/info/lfs.locksverify true
-git lfs push origin main
+git lfs push --all origin main
 git push --force -u origin main
 cd
 cd scripts
